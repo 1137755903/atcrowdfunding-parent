@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="atcrowdfunding-common-1.0-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/atcrowdfunding-parent_Security/atcrowdfunding-common/target/atcrowdfunding-common-1.0-SNAPSHOT.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

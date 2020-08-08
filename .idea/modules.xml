@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/atcrowdfunding-parent_Security/atcrowdfunding-common/atcrowdfunding-common1.iml" filepath="$PROJECT_DIR$/atcrowdfunding-parent_Security/atcrowdfunding-common/atcrowdfunding-common1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/atcrowdfunding-parent_Security/atcrowdfunding-main/atcrowdfunding-main1.iml" filepath="$PROJECT_DIR$/atcrowdfunding-parent_Security/atcrowdfunding-main/atcrowdfunding-main1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/atcrowdfunding-parent_Security/atcrowdfunding-manager/atcrowdfunding-manager1.iml" filepath="$PROJECT_DIR$/atcrowdfunding-parent_Security/atcrowdfunding-manager/atcrowdfunding-manager1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../bootStrap/bootStrap.iml" filepath="$PROJECT_DIR$/../../bootStrap/bootStrap.iml" />
+    </modules>
+  </component>
+</project>
